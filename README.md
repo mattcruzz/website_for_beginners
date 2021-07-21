@@ -9,7 +9,12 @@ _This is_ just a demo of me **editing** this file.
 
 Grocery list:
 
-* tomatoes
 * carrots
 * milk
 * butter
+* cheese
+
+### Trip Ideas
+
+- hawaii
+- nyc
