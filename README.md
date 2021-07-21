@@ -1,4 +1,4 @@
-# website_for_beginners
+# Website for Beginners
 Demo for Website for Beginners
 
 ## hello there
@@ -12,3 +12,4 @@ Grocery list:
 * tomatoes
 * carrots
 * milk
+* butter
